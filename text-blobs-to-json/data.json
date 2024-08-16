@@ -1,0 +1,1137 @@
+[
+    {
+        "name": "Machine Learning",
+        "description": "AI exists thanks to this",
+        "tag": "machineLearning"
+    },
+    {
+        "name": "Code Smell",
+        "description": "Indicators that code might need improvement.",
+        "tag": "codeSmell"
+    },
+    {
+        "name": "Serverless Computing",
+        "description": "Cloud computing without managing servers.",
+        "tag": "serverlessComputing"
+    },
+    {
+        "name": "Web Flow",
+        "description": "The sequence of user steps on a website.",
+        "tag": "webFlow"
+    },
+    {
+        "name": "Web Hooks",
+        "description": "Automated messages between apps.",
+        "tag": "webHooks"
+    },
+    {
+        "name": "LLMs",
+        "description": "AI systems for understanding and generating text.",
+        "tag": "llms"
+    },
+    {
+        "name": "Open Source",
+        "description": "Software with publicly accessible source code.",
+        "tag": "openSource"
+    },
+    {
+        "name": "Web Scraping",
+        "description": "Automatically collecting data from websites.",
+        "tag": "webScraping"
+    },
+    {
+        "name": "Front End",
+        "description": "The visual and interactive parts of a website.",
+        "tag": "frontEnd"
+    },
+    {
+        "name": "Full Stack",
+        "description": "Development of both front end and back end.",
+        "tag": "fullStack"
+    },
+    {
+        "name": "Functions",
+        "description": "Reusable blocks of code performing specific tasks.",
+        "tag": "functions"
+    },
+    {
+        "name": "Arguments",
+        "description": "Values passed to functions to influence their behavior.",
+        "tag": "arguments"
+    },
+    {
+        "name": "Dictionary",
+        "description": "A collection of key-value pairs in programming.",
+        "tag": "dictionary"
+    },
+    {
+        "name": "Tuple",
+        "description": "An ordered, unchangeable collection of items.",
+        "tag": "tuple"
+    },
+    {
+        "name": "List",
+        "description": "An ordered, changeable collection of items.",
+        "tag": "list"
+    },
+    {
+        "name": "Boolean",
+        "description": "A data type with true or false values.",
+        "tag": "boolean"
+    },
+    {
+        "name": "String",
+        "description": "A sequence of characters representing text.",
+        "tag": "string"
+    },
+    {
+        "name": "Floats",
+        "description": "Numbers with decimal points for precision.",
+        "tag": "floats"
+    },
+    {
+        "name": "Double",
+        "description": "More precise and larger decimal numbers.",
+        "tag": "double"
+    },
+    {
+        "name": "Data Types",
+        "description": "Categories defining the kind of data variables can hold.",
+        "tag": "dataTypes"
+    },
+    {
+        "name": "Threads",
+        "description": "Mini-programs running concurrently within a larger program.",
+        "tag": "threads"
+    },
+    {
+        "name": "Classes",
+        "description": "Blueprints for creating objects with defined properties and behaviors.",
+        "tag": "classes"
+    },
+    {
+        "name": "Objects",
+        "description": "Instances of classes with specific attributes and methods.",
+        "tag": "objects"
+    },
+    {
+        "name": "Inheritance",
+        "description": "Creating new classes from existing ones, inheriting their properties and",
+        "tag": "behaviors."
+    },
+    {
+        "name": "Syntax",
+        "description": "Rules defining the structure and format of code.",
+        "tag": "syntax"
+    },
+    {
+        "name": "IDE",
+        "description": "Integrated Development Environment for coding and debugging.",
+        "tag": "ide"
+    },
+    {
+        "name": "Debugger",
+        "description": "Tool for finding and fixing code errors",
+        "tag": "debugger"
+    },
+    {
+        "name": "Deployment",
+        "description": "Making applications available for use",
+        "tag": "deployment"
+    },
+    {
+        "name": "Continuous Deployment",
+        "description": "Automatic deployment of code changes",
+        "tag": "continuousDeployment"
+    },
+    {
+        "name": "Deployment Pipeline",
+        "description": "Automated process for software changes",
+        "tag": "deploymentPipeline"
+    },
+    {
+        "name": "Data Validation",
+        "description": "Ensuring data accuracy and completeness",
+        "tag": "dataValidation"
+    },
+    {
+        "name": "Data Serialization",
+        "description": "Converting data for storage or transmission",
+        "tag": "dataSerialization"
+    },
+    {
+        "name": "Mocking",
+        "description": "Creating fake objects for testing",
+        "tag": "mocking"
+    },
+    {
+        "name": "Authentication",
+        "description": "Verifying user identity",
+        "tag": "authentication"
+    },
+    {
+        "name": "Authorization",
+        "description": "Determining user permissions",
+        "tag": "authorization"
+    },
+    {
+        "name": "Prototypes (Software Development)",
+        "description": "Early models of software for testing",
+        "tag": "prototypes"
+    },
+    {
+        "name": "Monolithic Architecture",
+        "description": "Integrated large system design",
+        "tag": "monolithicArchitecture"
+    },
+    {
+        "name": "GitHub",
+        "description": "Platform for code hosting and collaboration",
+        "tag": "github"
+    },
+    {
+        "name": "ORM (Object-Relational Mapping)",
+        "description": "Mapping database tables to objects",
+        "tag": "orm"
+    },
+    {
+        "name": "Caching",
+        "description": "Storing data for quick access",
+        "tag": "caching"
+    },
+    {
+        "name": "Deep Learning",
+        "description": "A subset of machine learning",
+        "tag": "deepLearning"
+    },
+    {
+        "name": "Artificial Intelligence",
+        "description": "A frenemy",
+        "tag": "artificialIntelligence"
+    },
+    {
+        "name": "Cybersecurity",
+        "description": "Staying secured in a a world of hackers",
+        "tag": "cybersecurity"
+    },
+    {
+        "name": "Epochs",
+        "description": "Training rounds in Machine Learning",
+        "tag": "epochs"
+    },
+    {
+        "name": "APIs",
+        "description": "Application Programming Interfaces",
+        "tag": "apis"
+    },
+    {
+        "name": "Cloud Computing",
+        "description": "Its always fun on the clouds, until it starts \"leaking\"",
+        "tag": "cloudComputing"
+    },
+    {
+        "name": "Data Science",
+        "description": "Science of converting information to Data",
+        "tag": "dataScience"
+    },
+    {
+        "name": "Quantum Computing",
+        "description": "Sheldon Coopers gonna love this",
+        "tag": "quantumComputing"
+    },
+    {
+        "name": "Internet of Things",
+        "description": "A Network of things",
+        "tag": "internetOfThings"
+    },
+    {
+        "name": "Blockchain",
+        "description": "A chain of transactions",
+        "tag": "blockchain"
+    },
+    {
+        "name": "ReactJS",
+        "description": "A popular JS library for building user-interfaces",
+        "tag": "reactJS"
+    },
+    {
+        "name": "Docker",
+        "description": "The most popular Container tool",
+        "tag": "docker"
+    },
+    {
+        "name": "The __init__ Function",
+        "description": "A special method in Python Programming Language",
+        "tag": "initFunction"
+    },
+    {
+        "name": "Three-Sigma Rule",
+        "description": "A rule of thumb in data science",
+        "tag": "threeSigmaRule"
+    },
+    {
+        "name": "Recursion",
+        "description": "A programming technique",
+        "tag": "recursion"
+    },
+    {
+        "name": "Iteration",
+        "description": "A programming technique",
+        "tag": "iteration "
+    },
+    {
+        "name": "Version Control",
+        "description": "Recording every change",
+        "tag": "versionControl"
+    },
+    {
+        "name": "Git",
+        "description": "The most popular version control system",
+        "tag": "git"
+    },
+    {
+        "name": "Microservices",
+        "description": "Independent services working together",
+        "tag": "microservices"
+    },
+    {
+        "name": "RESTful API",
+        "description": "API using standard HTTP methods",
+        "tag": "restfulAPI"
+    },
+    {
+        "name": "GraphQL",
+        "description": "Query language for APIs",
+        "tag": "graphql"
+    },
+    {
+        "name": "Containerization",
+        "description": "Packaging applications for consistent deployment",
+        "tag": "containerization"
+    },
+    {
+        "name": "Kubernetes",
+        "description": "Platform for automating container management",
+        "tag": "kubernetes"
+    },
+    {
+        "name": "Branching",
+        "description": "Creating separate code versions",
+        "tag": "branching"
+    },
+    {
+        "name": "Merging",
+        "description": "Combining changes from branches",
+        "tag": "merging"
+    },
+    {
+        "name": "Pull Requests (PR)",
+        "description": "Proposing and reviewing code changes",
+        "tag": "pullRequests"
+    },
+    {
+        "name": "Code Review",
+        "description": "Checking code for quality and improvement",
+        "tag": "codeReview"
+    },
+    {
+        "name": "Refactoring",
+        "description": "Improving code structure without changing behavior",
+        "tag": "refactoring"
+    },
+    {
+        "name": "Technical Debt",
+        "description": "Extra work due to past shortcuts",
+        "tag": "technicalDebt"
+    },
+    {
+        "name": "Design Patterns",
+        "description": "Standard solutions to common design problems",
+        "tag": "designPatterns"
+    },
+    {
+        "name": "SOLID Principles",
+        "description": "Guidelines for better software design",
+        "tag": "solidPrinciples"
+    },
+    {
+        "name": "KISS Principle",
+        "description": "Keep it simple to avoid complexity",
+        "tag": "kissPrinciple"
+    },
+    {
+        "name": "DRY Principle",
+        "description": "Avoid code repetition",
+        "tag": "dryPrinciple"
+    },
+    {
+        "name": "Agile",
+        "description": "A methology in Software Development",
+        "tag": "agile"
+    },
+    {
+        "name": "Scrum",
+        "description": "A framework within the Agile methodology",
+        "tag": "scrum"
+    },
+    {
+        "name": "Kanban",
+        "description": "A visual workflow management method",
+        "tag": "kanban"
+    },
+    {
+        "name": "HTML",
+        "description": "HyperText Markup Language",
+        "tag": "html"
+    },
+    {
+        "name": "CSS",
+        "description": "Cascading Style Sheets",
+        "tag": "css"
+    },
+    {
+        "name": "Java",
+        "description": "A high-level programming-language",
+        "tag": "java"
+    },
+    {
+        "name": "C#",
+        "description": "A modern, OOP language from Microsoft",
+        "tag": "cSharp"
+    },
+    {
+        "name": "Ruby",
+        "description": "Another simple, OOP language",
+        "tag": "ruby"
+    },
+    {
+        "name": "Swift",
+        "description": "A programming language from Apple",
+        "tag": "swift"
+    },
+    {
+        "name": "Typescript",
+        "description": "A superset of JavaScript",
+        "tag": "typescript"
+    },
+    {
+        "name": "Kotlin",
+        "description": "A statically-typed programming language by JetBrains",
+        "tag": "kotlin"
+    },
+    {
+        "name": "Bash",
+        "description": "A unix shell and command language",
+        "tag": "bash"
+    },
+    {
+        "name": "Ruby on Rails",
+        "description": "A web application framework written in Ruby",
+        "tag": "rubyOnRails"
+    },
+    {
+        "name": "Angular",
+        "description": "A TypeScript-based web application framework",
+        "tag": "angular"
+    },
+    {
+        "name": "VueJS",
+        "description": "A <s>aggressive</s> progressive JavaScript framework",
+        "tag": "vueJS"
+    },
+    {
+        "name": "Flutter",
+        "description": "An UI toolkit from Google",
+        "tag": "flutter"
+    },
+    {
+        "name": "SwiftUI",
+        "description": "Another framework from Apple",
+        "tag": "swiftUI"
+    },
+    {
+        "name": "Data Structure",
+        "description": "A way of oragnzing and storing data",
+        "tag": "dataStructure"
+    },
+    {
+        "name": "Big O Notation",
+        "description": "A term used to explain... algorithms?",
+        "tag": "bigO"
+    },
+    {
+        "name": "Recursion Depth",
+        "description": "Used to elaborate on recusrion method",
+        "tag": "recursionDepth"
+    },
+    {
+        "name": "Debugging",
+        "description": "An interesting process that makes programmers yell \"Just Why!?\"",
+        "tag": "debugging"
+    },
+    {
+        "name": "Testing",
+        "description": "The ultimate fear of developers",
+        "tag": "testing"
+    },
+    {
+        "name": "Unit test",
+        "description": "A type of testing",
+        "tag": "unitTest"
+    },
+    {
+        "name": "Integration Test",
+        "description": "Another type of testing",
+        "tag": "integrationTest"
+    },
+    {
+        "name": "End-to-End Test",
+        "description": "Another type of testing",
+        "tag": "endToEndTest"
+    },
+    {
+        "name": "Performence Test",
+        "description": "A type of testing focusing on applcation performence",
+        "tag": "performanceTest"
+    },
+    {
+        "name": "Load Test",
+        "description": "A type of performance testing",
+        "tag": "loadTest"
+    },
+    {
+        "name": "Stress Test",
+        "description": "A type of performance testing under pressure",
+        "tag": "stressTest"
+    },
+    {
+        "name": "Security Test",
+        "description": "A test against hacking and whatnot",
+        "tag": "securityTest"
+    },
+    {
+        "name": "Usability Test",
+        "description": "A test that ensures that application is user-friendly",
+        "tag": "usabilityTest"
+    },
+    {
+        "name": "User-Acceptance Test (UAT)",
+        "description": "Final user testing phase",
+        "tag": "uat"
+    },
+    {
+        "name": "Test-Driven Development",
+        "description": "Or TDD, a software development approach",
+        "tag": "testDrivenDevelopment"
+    },
+    {
+        "name": "Continuous Integration (CI)",
+        "description": "A software development practice",
+        "tag": "continuousIntegration"
+    },
+    {
+        "name": "Continuous Delivery (CD)",
+        "description": "A software development practice often implemented with CI",
+        "tag": "continuousDelivery"
+    },
+    {
+        "name": "DevOps",
+        "description": "A set of practices that combine Dev and Ops",
+        "tag": "devOps"
+    },
+    {
+        "name": "SQL",
+        "description": "A relational database management system",
+        "tag": "sql"
+    },
+    {
+        "name": "NoSQL",
+        "description": "A non-relational database management system",
+        "tag": "nosql"
+    },
+    {
+        "name": "Logistic Regression",
+        "description": "Predicts probabilities for binary outcomes.",
+        "tag": "logisticRegression"
+    },
+    {
+        "name": "K-Means Clustering",
+        "description": "Groups data into clusters based on similarity.",
+        "tag": "kMeansClustering"
+    },
+    {
+        "name": "Decision Trees",
+        "description": "Uses a tree-like model of decisions and their possible consequences.",
+        "tag": "decisionTrees"
+    },
+    {
+        "name": "Random Forest",
+        "description": "Combines multiple decision trees to improve accuracy.",
+        "tag": "randomForest"
+    },
+    {
+        "name": "Support Vector Machines",
+        "description": "Finds the best boundary between classes in data.",
+        "tag": "supportVectorMachines"
+    },
+    {
+        "name": "Gradient Descent",
+        "description": "Optimizes model parameters by minimizing errors.",
+        "tag": "gradientDescent"
+    },
+    {
+        "name": "Neural Networks",
+        "description": "Mimics the human brain to recognize patterns and make predictions.",
+        "tag": "neuralNetworks"
+    },
+    {
+        "name": "gRPC",
+        "description": "A high-performance framework for service communication",
+        "tag": "gRPC"
+    },
+    {
+        "name": "Dependency Graph",
+        "description": "Visualize dependencies in systems or projects",
+        "tag": "dependencyGraph"
+    },
+    {
+        "name": "Cluster Computing",
+        "description": "Connecting multiple computers to work as a single system",
+        "tag": "clusterComputing"
+    },
+    {
+        "name": "Message Queues",
+        "description": "Manage asynchronous communication between processes",
+        "tag": "messageQueues"
+    },
+    {
+        "name": "Rate Limiting",
+        "description": "Control the frequency of resource access to prevent overuse",
+        "tag": "rateLimiting"
+    },
+    {
+        "name": "Concurrency",
+        "description": "Run multiple processes simultaneously for efficiency",
+        "tag": "concurrency"
+    },
+    {
+        "name": "Vertical Scaling",
+        "description": "Increase the capacity of a single server",
+        "tag": "verticalScaling"
+    },
+    {
+        "name": "Horizontal Scaling",
+        "description": "Add more machines to handle increased load",
+        "tag": "horizontalScaling"
+    },
+    {
+        "name": "Database Indexing",
+        "description": "Improve data retrieval speed in databases",
+        "tag": "databaseIndexing"
+    },
+    {
+        "name": "Data Replication",
+        "description": "Copy data to ensure consistency and accessibility",
+        "tag": "dataReplication"
+    },
+    {
+        "name": "ACID Transactions",
+        "description": "Ensure reliability in database operations",
+        "tag": "acidTransactions"
+    },
+    {
+        "name": "Eventually Consistent Systems",
+        "description": "Systems that eventually reach consistency over time",
+        "tag": "eventuallyConsistentSystems"
+    },
+    {
+        "name": "Memory Leaks",
+        "description": "Issues in memory management that can cause system crashes",
+        "tag": "memoryLeaks"
+    },
+    {
+        "name": "Namespace",
+        "description": "Organize code to avoid naming conflicts",
+        "tag": "namespace"
+    },
+    {
+        "name": "Service Discovery",
+        "description": "Dynamic directory for services to find each other",
+        "tag": "serviceDiscovery"
+    },
+    {
+        "name": "Throttling",
+        "description": "Control network traffic to prevent overloading",
+        "tag": "throttling"
+    },
+    {
+        "name": "Function as a Service (FaaS)",
+        "description": "Execute code without managing infrastructure",
+        "tag": "functionAsAService"
+    },
+    {
+        "name": "Data Lakehouse",
+        "description": "Combine data lakes and warehouses for comprehensive storage",
+        "tag": "dataLakehouse"
+    },
+    {
+        "name": "Event Loop",
+        "description": "Programming construct that waits for and dispatches events",
+        "tag": "eventLoop"
+    },
+    {
+        "name": "Tokenization",
+        "description": "Convert sensitive data into non-sensitive tokens",
+        "tag": "tokenization"
+    },
+    {
+        "name": "Server Sent Events (SSE)",
+        "description": "Automatically update web pages with server data",
+        "tag": "serverSentEvents"
+    },
+    {
+        "name": "Message Brokers",
+        "description": "Intermediaries that manage communication between apps",
+        "tag": "messageBrokers"
+    },
+    {
+        "name": "Cache Invalidation",
+        "description": "Remove outdated data to make room for fresh information",
+        "tag": "cacheInvalidation"
+    },
+    {
+        "name": "Immutable Data Structures",
+        "description": "Data structures that cannot be modified after creation",
+        "tag": "immutableDataStructures"
+    },
+    {
+        "name": "Data Deduplication",
+        "description": "Eliminate redundant data to increase storage efficiency",
+        "tag": "dataDeduplication"
+    },
+    {
+        "name": "Stateful vs Stateless Systems",
+        "description": "Compare systems that maintain state with those that dont",
+        "tag": "statefulVsStatelessSystems"
+    },
+    {
+        "name": "Zero Downtime Deployment",
+        "description": "Update software without causing service disruption",
+        "tag": "zeroDowntimeDeployment"
+    },
+    {
+        "name": "Data Partitioning",
+        "description": "Divide a database into distinct, independent parts",
+        "tag": "dataPartitioning"
+    },
+    {
+        "name": "Feature Branching",
+        "description": "Isolate development in branches for easier integration",
+        "tag": "featureBranching"
+    },
+    {
+        "name": "Deadlock",
+        "description": "A stand-off where processes block each others progress",
+        "tag": "deadlock"
+    },
+    {
+        "name": "Micro-batching",
+        "description": "Process small groups of data in short intervals",
+        "tag": "microBatching"
+    },
+    {
+        "name": "Domain-Driven Design",
+        "description": "Software development approach focused on core business concepts",
+        "tag": "domainDrivenDesign"
+    },
+    {
+        "name": "API Versioning",
+        "description": "Manage API changes by assigning version numbers",
+        "tag": "apiVersioning"
+    },
+    {
+        "name": "Distributed File System (DFS)",
+        "description": "A network file system that spans multiple servers",
+        "tag": "distributedFileSystem"
+    },
+    {
+        "name": "Stateful Widget",
+        "description": "UI component that maintains state across sessions",
+        "tag": "statefulWidget"
+    },
+    {
+        "name": "Serverless Functions",
+        "description": "Execute code without the need to manage servers",
+        "tag": "serverlessFunctions"
+    },
+    {
+        "name": "Edge Services",
+        "description": "Technologies providing services closer to the user",
+        "tag": "edgeServices"
+    },
+    {
+        "name": "Dark Launch",
+        "description": "Release features to a subset of users without their knowledge",
+        "tag": "darkLaunch"
+    },
+    {
+        "name": "Cloud Security",
+        "description": "Procedures and technology to secure cloud environments",
+        "tag": "cloudSecurity"
+    },
+    {
+        "name": "Scalability",
+        "description": "Capability of a system to handle growth",
+        "tag": "scalability"
+    },
+    {
+        "name": "Event Stream Processing",
+        "description": "Analyze and process continuous streams of events",
+        "tag": "eventStreamProcessing"
+    },
+    {
+        "name": "Multi-Tenancy",
+        "description": "Single instance of software serves multiple customers",
+        "tag": "multiTenancy"
+    },
+    {
+        "name": "Software Containers",
+        "description": "Package an application and its dependencies into a unit",
+        "tag": "softwareContainers"
+    },
+    {
+        "name": "Cloud Orchestration",
+        "description": "Automated arrangement and coordination of cloud services",
+        "tag": "cloudOrchestration"
+    },
+    {
+        "name": "Network Slicing",
+        "description": "Create multiple virtual networks on shared infrastructure",
+        "tag": "networkSlicing"
+    },
+    {
+        "name": "IoT Edge Computing",
+        "description": "Process data near its source in IoT devices",
+        "tag": "IoTEdgeComputing"
+    },
+    {
+        "name": "Data Lakes and Warehouses Integration",
+        "description": "Combine raw and structured data storage for better management",
+        "tag": "dataLakesAndWarehousesIntegration"
+    },
+    {
+        "name": "Machine Learning Operations (MLOps)",
+        "description": "Streamline machine learning processes using DevOps principles",
+        "tag": "machineLearningOperations"
+    },
+    {
+        "name": "Natural Language Processing",
+        "description": "Enables computers to understand and process human language.",
+        "tag": "naturalLanguageProcessing"
+    },
+    {
+        "name": "Recurrent Neural Networks",
+        "description": "Processes sequences of data, maintaining context over time.",
+        "tag": "recurrentNeuralNetworks"
+    },
+    {
+        "name": "Convolutional Neural Networks",
+        "description": "Analyzes grid-like data, such as images, using filters.",
+        "tag": "convolutionalNeuralNetworks"
+    },
+    {
+        "name": "Autoencoders",
+        "description": "Learns efficient data representations through compression and",
+        "tag": "reconstruction."
+    },
+    {
+        "name": "Reinforcement Learning",
+        "description": "Trains agents to make decisions by rewarding or punishing actions.",
+        "tag": "reinforcementLearning"
+    },
+    {
+        "name": "Transfer Learning",
+        "description": "Adapts pre-trained models for new but related tasks.",
+        "tag": "transferLearning"
+    },
+    {
+        "name": "Hyperparameter Tuning",
+        "description": "Optimizes model settings to improve performance.",
+        "tag": "hyperparameterTuning"
+    },
+    {
+        "name": "Cross-Validation",
+        "description": "Evaluates model performance on multiple data splits.",
+        "tag": "crossValidation"
+    },
+    {
+        "name": "Feature Engineering",
+        "description": "Creates or modifies features to enhance model performance.",
+        "tag": "featureEngineering"
+    },
+    {
+        "name": "Feature Scaling",
+        "description": "Normalizes feature ranges for better model performance.",
+        "tag": "featureScaling"
+    },
+    {
+        "name": "Overfitting",
+        "description": "When a model learns too much from training data, harming new data performance.",
+        "tag": "overfitting"
+    },
+    {
+        "name": "Underfitting",
+        "description": "When a model is too simple to capture the underlying data patterns.",
+        "tag": "underfitting"
+    },
+    {
+        "name": "Regularization",
+        "description": "Prevents overfitting by adding penalties to model complexity.",
+        "tag": "regularization"
+    },
+    {
+        "name": "Bagging",
+        "description": "Combines predictions from multiple models for improved accuracy.",
+        "tag": "bagging"
+    },
+    {
+        "name": "Boosting",
+        "description": "Builds models sequentially, with each correcting errors of the previous one.",
+        "tag": "boosting"
+    },
+    {
+        "name": "Ensemble Methods",
+        "description": "Combines multiple models to improve overall performance.",
+        "tag": "ensembleMethods"
+    },
+    {
+        "name": "ROC Curve",
+        "description": "Graphical representation of a classifiers performance.",
+        "tag": "rocCurve"
+    },
+    {
+        "name": "AUC Curve",
+        "description": "i.e. Area Under the Curve",
+        "tag": "aucCurve"
+    },
+    {
+        "name": "Precision and Recall",
+        "description": "Metrics for evaluating classification model accuracy and completeness.",
+        "tag": "precisionRecall"
+    },
+    {
+        "name": "F1 Score",
+        "description": "Harmonic mean of Precision and Recall for balanced evaluation.",
+        "tag": "f1Score"
+    },
+    {
+        "name": "Confusion Matrix",
+        "description": "A table to evaluate classification model performance.",
+        "tag": "confusionMatrix"
+    },
+    {
+        "name": "Cross-Entropy",
+        "description": "Loss function measuring the difference between predicted and actual class",
+        "tag": "labels."
+    },
+    {
+        "name": "NoSQL Databases",
+        "description": "Flexible, scalable data storage solutions",
+        "tag": "noSQLDatabases"
+    },
+    {
+        "name": "Microservices Architecture",
+        "description": "Independent, small service modules in software",
+        "tag": "microservicesArchitecture"
+    },
+    {
+        "name": "Serverless Architecture",
+        "description": "Cloud management of server operations",
+        "tag": "serverlessArchitecture"
+    },
+    {
+        "name": "WebAssembly (Wasm)",
+        "description": "High-performance web applications",
+        "tag": "webAssembly"
+    },
+    {
+        "name": "Edge Computing",
+        "description": "Data processing closer to data sources",
+        "tag": "edgeComputing"
+    },
+    {
+        "name": "Zero Trust Security Model",
+        "description": "Security that trusts no one by default",
+        "tag": "zeroTrustSecurityModel"
+    },
+    {
+        "name": "Docker Swarm",
+        "description": "Management of Docker container clusters",
+        "tag": "dockerSwarm"
+    },
+    {
+        "name": "OAuth 2.0",
+        "description": "Authorization framework for resource access",
+        "tag": "oAuth2_0"
+    },
+    {
+        "name": "JWT (JSON Web Tokens)",
+        "description": "Securely transmit information as JSON",
+        "tag": "jwt"
+    },
+    {
+        "name": "Event-Driven Architecture",
+        "description": "Building software with actions triggering responses",
+        "tag": "eventDrivenArchitecture"
+    },
+    {
+        "name": "CQRS (Command Query Responsibility Segregation)",
+        "description": "Separating read and write operations for efficiency",
+        "tag": "cqrs"
+    },
+    {
+        "name": "DevSecOps",
+        "description": "Integrating security into the DevOps process",
+        "tag": "devSecOps"
+    },
+    {
+        "name": "Data Lake",
+        "description": "Vast storage for raw data in its native format",
+        "tag": "dataLake"
+    },
+    {
+        "name": "ETL (Extract, Transform, Load)",
+        "description": "Process to collect, change, and store data",
+        "tag": "etl"
+    },
+    {
+        "name": "Monolith",
+        "description": "A single, large application handling multiple tasks",
+        "tag": "monolith"
+    },
+    {
+        "name": "Data Warehouse",
+        "description": "System for storing and managing large data for analysis",
+        "tag": "dataWarehouse"
+    },
+    {
+        "name": "Graph Databases",
+        "description": "Databases storing data in nodes and edges to show relationships",
+        "tag": "graphDatabases"
+    },
+    {
+        "name": "APM (Application Performance Management)",
+        "description": "Monitors and manages software application performance",
+        "tag": "apm"
+    },
+    {
+        "name": "Infrastructure as Code (IaC)",
+        "description": "Managing infrastructure through machine-readable scripts",
+        "tag": "infrastructureAsCode"
+    },
+    {
+        "name": "Immutable Infrastructure",
+        "description": "Infrastructure that is never modified after deployment",
+        "tag": "immutableInfrastructure"
+    },
+    {
+        "name": "Distributed Ledger Technology",
+        "description": "Digital system recording transactions in multiple places simultaneously",
+        "tag": "distributedLedgerTechnology"
+    },
+    {
+        "name": "Chaos Engineering",
+        "description": "Practice of testing systems to withstand turbulent conditions",
+        "tag": "chaosEngineering"
+    },
+    {
+        "name": "Reactive Programming",
+        "description": "Handling data streams and changes in real time",
+        "tag": "reactiveProgramming"
+    },
+    {
+        "name": "Data Sharding",
+        "description": "Splitting a database into smaller, faster parts",
+        "tag": "dataSharding"
+    },
+    {
+        "name": "API Gateway",
+        "description": "Manages requests and directs them to the correct services",
+        "tag": "apiGateway"
+    },
+    {
+        "name": "WebRTC (Web Real-Time Communication)",
+        "description": "Enabling real-time communication directly in web browsers",
+        "tag": "webRTC"
+    },
+    {
+        "name": "Data Governance",
+        "description": "Management of datas availability, usability, integrity, and security",
+        "tag": "dataGovernance"
+    },
+    {
+        "name": "Data Anonymization",
+        "description": "Removing personal identifiers from data to protect privacy",
+        "tag": "dataAnonymization"
+    },
+    {
+        "name": "Federated Learning",
+        "description": "Training AI models across multiple devices without sharing data",
+        "tag": "federatedLearning"
+    },
+    {
+        "name": "Explainable AI (XAI)",
+        "description": "Making AI decisions understandable to humans",
+        "tag": "explainableAI"
+    },
+    {
+        "name": "Synthetic Data",
+        "description": "Artificially generated data that mimics real data",
+        "tag": "syntheticData"
+    },
+    {
+        "name": "Quantum Cryptography",
+        "description": "Using principles of quantum mechanics for secure communication",
+        "tag": "quantumCryptography"
+    },
+    {
+        "name": "Digital Twins",
+        "description": "Virtual replicas of physical objects or systems",
+        "tag": "digitalTwins"
+    },
+    {
+        "name": "Edge AI",
+        "description": "Bringing artificial intelligence to edge devices to process data locally",
+        "tag": "edgeAI"
+    },
+    {
+        "name": "Homomorphic Encryption",
+        "description": "Performing computations on encrypted data without decryption",
+        "tag": "homomorphicEncryption"
+    },
+    {
+        "name": "Fog Computing",
+        "description": "Extending cloud computing to the edge of an enterprises network",
+        "tag": "fogComputing"
+    },
+    {
+        "name": "Virtual Private Cloud (VPC)",
+        "description": "Isolated cloud resources for enhanced security within a public cloud",
+        "tag": "virtualPrivateCloud"
+    },
+    {
+        "name": "Hybrid Cloud",
+        "description": "Combining public and private cloud environments for flexibility",
+        "tag": "hybridCloud"
+    },
+    {
+        "name": "Multi-Cloud Strategy",
+        "description": "Using multiple cloud computing services to mitigate single-provider risks",
+        "tag": "multiCloudStrategy"
+    },
+    {
+        "name": "DataOps",
+        "description": "An agile methodology for developing and maintaining data analytics",
+        "tag": "dataOps"
+    }
+]

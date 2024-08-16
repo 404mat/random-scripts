@@ -1,0 +1,1081 @@
+Machine Learning
+AI exists thanks to this
+machineLearning
+
+
+Code Smell
+Indicators that code might need improvement.
+codeSmell
+
+
+Serverless Computing
+Cloud computing without managing servers.
+serverlessComputing
+
+
+Web Flow
+The sequence of user steps on a website.
+webFlow
+
+
+Web Hooks
+Automated messages between apps.
+webHooks
+
+
+LLMs
+AI systems for understanding and generating text.
+llms
+
+
+Open Source
+Software with publicly accessible source code.
+openSource
+
+
+Web Scraping
+Automatically collecting data from websites.
+webScraping
+
+
+Front End
+The visual and interactive parts of a website.
+frontEnd
+
+
+Full Stack
+Development of both front end and back end.
+fullStack
+
+
+Functions
+Reusable blocks of code performing specific tasks.
+functions
+
+
+Arguments
+Values passed to functions to influence their behavior.
+arguments
+
+
+Dictionary
+A collection of key-value pairs in programming.
+dictionary
+
+
+Tuple
+An ordered, unchangeable collection of items.
+tuple
+
+
+List
+An ordered, changeable collection of items.
+list
+
+
+Boolean
+A data type with true or false values.
+boolean
+
+
+String
+A sequence of characters representing text.
+string
+
+
+Floats
+Numbers with decimal points for precision.
+floats
+
+
+Double
+More precise and larger decimal numbers.
+double
+
+
+Data Types
+Categories defining the kind of data variables can hold.
+dataTypes
+
+
+Threads
+Mini-programs running concurrently within a larger program.
+threads
+
+
+Classes
+Blueprints for creating objects with defined properties and behaviors.
+classes
+
+
+Objects
+Instances of classes with specific attributes and methods.
+objects
+
+
+Inheritance
+Creating new classes from existing ones, inheriting their properties and
+behaviors.
+inheritance
+
+
+Syntax
+Rules defining the structure and format of code.
+syntax
+
+
+IDE
+Integrated Development Environment for coding and debugging.
+ide
+
+Debugger
+Tool for finding and fixing code errors
+debugger
+
+
+Deployment
+Making applications available for use
+deployment
+
+
+Continuous Deployment
+Automatic deployment of code changes
+continuousDeployment
+
+
+Deployment Pipeline
+Automated process for software changes
+deploymentPipeline
+
+
+Data Validation
+Ensuring data accuracy and completeness
+dataValidation
+
+
+Data Serialization
+Converting data for storage or transmission
+dataSerialization
+
+
+Mocking
+Creating fake objects for testing
+mocking
+
+
+Authentication
+Verifying user identity
+authentication
+
+
+Authorization
+Determining user permissions
+authorization
+
+
+Prototypes (Software Development)
+Early models of software for testing
+prototypes
+
+
+Monolithic Architecture
+Integrated large system design
+monolithicArchitecture
+
+
+GitHub
+Platform for code hosting and collaboration
+github
+
+
+ORM (Object-Relational Mapping)
+Mapping database tables to objects
+orm
+
+
+Caching
+Storing data for quick access
+caching
+
+
+Deep Learning
+A subset of machine learning
+deepLearning
+
+Artificial Intelligence
+A frenemy
+artificialIntelligence
+
+Cybersecurity
+Staying secured in a a world of hackers
+cybersecurity
+
+Epochs
+Training rounds in Machine Learning
+epochs
+
+APIs
+Application Programming Interfaces
+apis
+
+Cloud Computing
+Its always fun on the clouds, until it starts "leaking"
+cloudComputing
+
+Data Science
+Science of converting information to Data
+dataScience
+
+Quantum Computing
+Sheldon Coopers gonna love this
+quantumComputing
+
+Internet of Things
+A Network of things
+internetOfThings
+
+Blockchain
+A chain of transactions
+blockchain
+
+ReactJS
+A popular JS library for building user-interfaces
+reactJS
+
+Docker
+The most popular Container tool
+docker
+
+The __init__ Function
+A special method in Python Programming Language
+initFunction
+
+Three-Sigma Rule
+A rule of thumb in data science
+threeSigmaRule
+
+Recursion
+A programming technique
+recursion
+
+Iteration
+A programming technique
+iteration 
+
+Version Control
+Recording every change
+versionControl
+
+Git
+The most popular version control system
+git
+
+
+Microservices
+Independent services working together
+microservices
+
+
+RESTful API
+API using standard HTTP methods
+restfulAPI
+
+
+GraphQL
+Query language for APIs
+graphql
+
+
+Containerization
+Packaging applications for consistent deployment
+containerization
+
+
+Kubernetes
+Platform for automating container management
+kubernetes
+
+
+Branching
+Creating separate code versions
+branching
+
+
+Merging
+Combining changes from branches
+merging
+
+
+Pull Requests (PR)
+Proposing and reviewing code changes
+pullRequests
+
+
+Code Review
+Checking code for quality and improvement
+codeReview
+
+
+Refactoring
+Improving code structure without changing behavior
+refactoring
+
+
+Technical Debt
+Extra work due to past shortcuts
+technicalDebt
+
+
+Design Patterns
+Standard solutions to common design problems
+designPatterns
+
+
+SOLID Principles
+Guidelines for better software design
+solidPrinciples
+
+
+KISS Principle
+Keep it simple to avoid complexity
+kissPrinciple
+
+
+DRY Principle
+Avoid code repetition
+dryPrinciple
+
+Agile
+A methology in Software Development
+agile
+
+Scrum
+A framework within the Agile methodology
+scrum
+
+Kanban
+A visual workflow management method
+kanban
+
+HTML
+HyperText Markup Language
+html
+
+CSS
+Cascading Style Sheets
+css
+
+Java
+A high-level programming-language
+java
+
+C#
+A modern, OOP language from Microsoft
+cSharp
+
+Ruby
+Another simple, OOP language
+ruby
+
+Swift
+A programming language from Apple
+swift
+
+Typescript
+A superset of JavaScript
+typescript
+
+Kotlin
+A statically-typed programming language by JetBrains
+kotlin
+
+Bash
+A unix shell and command language
+bash
+
+Ruby on Rails
+A web application framework written in Ruby
+rubyOnRails
+
+Angular
+A TypeScript-based web application framework
+angular
+
+VueJS
+A <s>aggressive</s> progressive JavaScript framework
+vueJS
+
+Flutter
+An UI toolkit from Google
+flutter
+
+SwiftUI
+Another framework from Apple
+swiftUI
+
+Data Structure
+A way of oragnzing and storing data
+dataStructure
+
+Big O Notation
+A term used to explain... algorithms?
+bigO
+
+Recursion Depth
+Used to elaborate on recusrion method
+recursionDepth
+
+Debugging
+An interesting process that makes programmers yell "Just Why!?"
+debugging
+
+Testing
+The ultimate fear of developers
+testing
+
+Unit test
+A type of testing
+unitTest
+
+Integration Test
+Another type of testing
+integrationTest
+
+End-to-End Test
+Another type of testing
+endToEndTest
+
+Performence Test
+A type of testing focusing on applcation performence
+performanceTest
+
+Load Test
+A type of performance testing
+loadTest
+
+
+Stress Test
+A type of performance testing under pressure
+stressTest
+
+Security Test
+A test against hacking and whatnot
+securityTest
+
+
+Usability Test
+A test that ensures that application is user-friendly
+usabilityTest
+
+User-Acceptance Test (UAT)
+Final user testing phase
+uat
+
+Test-Driven Development
+Or TDD, a software development approach
+testDrivenDevelopment
+
+Continuous Integration (CI)
+A software development practice
+continuousIntegration
+
+Continuous Delivery (CD)
+A software development practice often implemented with CI
+continuousDelivery
+
+
+DevOps
+A set of practices that combine Dev and Ops
+devOps
+
+SQL
+A relational database management system
+sql
+
+
+NoSQL
+A non-relational database management system
+nosql
+
+Logistic Regression
+Predicts probabilities for binary outcomes.
+logisticRegression
+
+
+K-Means Clustering
+Groups data into clusters based on similarity.
+kMeansClustering
+
+
+Decision Trees
+Uses a tree-like model of decisions and their possible consequences.
+decisionTrees
+
+Random Forest
+Combines multiple decision trees to improve accuracy.
+randomForest
+
+Support Vector Machines
+Finds the best boundary between classes in data.
+supportVectorMachines
+
+Gradient Descent
+Optimizes model parameters by minimizing errors.
+gradientDescent
+
+
+Neural Networks
+Mimics the human brain to recognize patterns and make predictions.
+neuralNetworks
+
+gRPC
+A high-performance framework for service communication
+gRPC
+
+
+Dependency Graph
+Visualize dependencies in systems or projects
+dependencyGraph
+
+
+Cluster Computing
+Connecting multiple computers to work as a single system
+clusterComputing
+
+
+Message Queues
+Manage asynchronous communication between processes
+messageQueues
+
+
+Rate Limiting
+Control the frequency of resource access to prevent overuse
+rateLimiting
+
+
+Concurrency
+Run multiple processes simultaneously for efficiency
+concurrency
+
+
+Vertical Scaling
+Increase the capacity of a single server
+verticalScaling
+
+
+Horizontal Scaling
+Add more machines to handle increased load
+horizontalScaling
+
+
+Database Indexing
+Improve data retrieval speed in databases
+databaseIndexing
+
+
+Data Replication
+Copy data to ensure consistency and accessibility
+dataReplication
+
+
+ACID Transactions
+Ensure reliability in database operations
+acidTransactions
+
+
+Eventually Consistent Systems
+Systems that eventually reach consistency over time
+eventuallyConsistentSystems
+
+
+Memory Leaks
+Issues in memory management that can cause system crashes
+memoryLeaks
+
+
+Namespace
+Organize code to avoid naming conflicts
+namespace
+
+
+Service Discovery
+Dynamic directory for services to find each other
+serviceDiscovery
+
+
+Throttling
+Control network traffic to prevent overloading
+throttling
+
+
+Function as a Service (FaaS)
+Execute code without managing infrastructure
+functionAsAService
+
+
+Data Lakehouse
+Combine data lakes and warehouses for comprehensive storage
+dataLakehouse
+
+
+Event Loop
+Programming construct that waits for and dispatches events
+eventLoop
+
+
+Tokenization
+Convert sensitive data into non-sensitive tokens
+tokenization
+
+
+Server Sent Events (SSE)
+Automatically update web pages with server data
+serverSentEvents
+
+
+Message Brokers
+Intermediaries that manage communication between apps
+messageBrokers
+
+
+Cache Invalidation
+Remove outdated data to make room for fresh information
+cacheInvalidation
+
+
+Immutable Data Structures
+Data structures that cannot be modified after creation
+immutableDataStructures
+
+
+Data Deduplication
+Eliminate redundant data to increase storage efficiency
+dataDeduplication
+
+
+Stateful vs Stateless Systems
+Compare systems that maintain state with those that dont
+statefulVsStatelessSystems
+
+
+Zero Downtime Deployment
+Update software without causing service disruption
+zeroDowntimeDeployment
+
+
+Data Partitioning
+Divide a database into distinct, independent parts
+dataPartitioning
+
+
+Feature Branching
+Isolate development in branches for easier integration
+featureBranching
+
+
+Deadlock
+A stand-off where processes block each others progress
+deadlock
+
+
+Micro-batching
+Process small groups of data in short intervals
+microBatching
+
+
+Domain-Driven Design
+Software development approach focused on core business concepts
+domainDrivenDesign
+
+
+API Versioning
+Manage API changes by assigning version numbers
+apiVersioning
+
+
+Distributed File System (DFS)
+A network file system that spans multiple servers
+distributedFileSystem
+
+
+Stateful Widget
+UI component that maintains state across sessions
+statefulWidget
+
+
+Serverless Functions
+Execute code without the need to manage servers
+serverlessFunctions
+
+
+Edge Services
+Technologies providing services closer to the user
+edgeServices
+
+
+Dark Launch
+Release features to a subset of users without their knowledge
+darkLaunch
+
+
+Cloud Security
+Procedures and technology to secure cloud environments
+cloudSecurity
+
+
+Scalability
+Capability of a system to handle growth
+scalability
+
+
+Event Stream Processing
+Analyze and process continuous streams of events
+eventStreamProcessing
+
+
+Multi-Tenancy
+Single instance of software serves multiple customers
+multiTenancy
+
+
+Software Containers
+Package an application and its dependencies into a unit
+softwareContainers
+
+
+Cloud Orchestration
+Automated arrangement and coordination of cloud services
+cloudOrchestration
+
+
+Network Slicing
+Create multiple virtual networks on shared infrastructure
+networkSlicing
+
+
+IoT Edge Computing
+Process data near its source in IoT devices
+IoTEdgeComputing
+
+
+Data Lakes and Warehouses Integration
+Combine raw and structured data storage for better management
+dataLakesAndWarehousesIntegration
+
+
+Machine Learning Operations (MLOps)
+Streamline machine learning processes using DevOps principles
+machineLearningOperations
+
+
+Natural Language Processing
+Enables computers to understand and process human language.
+naturalLanguageProcessing
+
+
+Recurrent Neural Networks
+Processes sequences of data, maintaining context over time.
+recurrentNeuralNetworks
+
+
+Convolutional Neural Networks
+Analyzes grid-like data, such as images, using filters.
+convolutionalNeuralNetworks
+
+
+Autoencoders
+Learns efficient data representations through compression and
+reconstruction.
+autoencoders
+
+
+Reinforcement Learning
+Trains agents to make decisions by rewarding or punishing actions.
+reinforcementLearning
+
+
+Transfer Learning
+Adapts pre-trained models for new but related tasks.
+transferLearning
+
+
+Hyperparameter Tuning
+Optimizes model settings to improve performance.
+hyperparameterTuning
+
+
+Cross-Validation
+Evaluates model performance on multiple data splits.
+crossValidation
+
+
+Feature Engineering
+Creates or modifies features to enhance model performance.
+featureEngineering
+
+
+Feature Scaling
+Normalizes feature ranges for better model performance.
+featureScaling
+
+
+Overfitting
+When a model learns too much from training data, harming new data performance.
+overfitting
+
+
+Underfitting
+When a model is too simple to capture the underlying data patterns.
+underfitting
+
+
+Regularization
+Prevents overfitting by adding penalties to model complexity.
+regularization
+
+
+Bagging
+Combines predictions from multiple models for improved accuracy.
+bagging
+
+
+Boosting
+Builds models sequentially, with each correcting errors of the previous one.
+boosting
+
+
+Ensemble Methods
+Combines multiple models to improve overall performance.
+ensembleMethods
+
+
+ROC Curve
+Graphical representation of a classifiers performance.
+rocCurve
+
+AUC Curve
+i.e. Area Under the Curve
+aucCurve
+
+
+Precision and Recall
+Metrics for evaluating classification model accuracy and completeness.
+precisionRecall
+
+
+F1 Score
+Harmonic mean of Precision and Recall for balanced evaluation.
+f1Score
+
+
+Confusion Matrix
+A table to evaluate classification model performance.
+confusionMatrix
+
+
+Cross-Entropy
+Loss function measuring the difference between predicted and actual class
+labels.
+crossEntropy
+
+NoSQL Databases
+Flexible, scalable data storage solutions
+noSQLDatabases
+
+
+Microservices Architecture
+Independent, small service modules in software
+microservicesArchitecture
+
+
+Serverless Architecture
+Cloud management of server operations
+serverlessArchitecture
+
+
+WebAssembly (Wasm)
+High-performance web applications
+webAssembly
+
+
+Edge Computing
+Data processing closer to data sources
+edgeComputing
+
+
+Zero Trust Security Model
+Security that trusts no one by default
+zeroTrustSecurityModel
+
+
+Docker Swarm
+Management of Docker container clusters
+dockerSwarm
+
+
+OAuth 2.0
+Authorization framework for resource access
+oAuth2_0
+
+JWT (JSON Web Tokens)
+Securely transmit information as JSON
+jwt
+
+
+Event-Driven Architecture
+Building software with actions triggering responses
+eventDrivenArchitecture
+
+
+CQRS (Command Query Responsibility Segregation)
+Separating read and write operations for efficiency
+cqrs
+
+
+DevSecOps
+Integrating security into the DevOps process
+devSecOps
+
+
+Data Lake
+Vast storage for raw data in its native format
+dataLake
+
+
+ETL (Extract, Transform, Load)
+Process to collect, change, and store data
+etl
+
+
+Monolith
+A single, large application handling multiple tasks
+monolith
+
+
+Data Warehouse
+System for storing and managing large data for analysis
+dataWarehouse
+
+
+Graph Databases
+Databases storing data in nodes and edges to show relationships
+graphDatabases
+
+
+APM (Application Performance Management)
+Monitors and manages software application performance
+apm
+
+
+Infrastructure as Code (IaC)
+Managing infrastructure through machine-readable scripts
+infrastructureAsCode
+
+
+Immutable Infrastructure
+Infrastructure that is never modified after deployment
+immutableInfrastructure
+
+
+Distributed Ledger Technology
+Digital system recording transactions in multiple places simultaneously
+distributedLedgerTechnology
+
+
+Chaos Engineering
+Practice of testing systems to withstand turbulent conditions
+chaosEngineering
+
+
+Reactive Programming
+Handling data streams and changes in real time
+reactiveProgramming
+
+
+Data Sharding
+Splitting a database into smaller, faster parts
+dataSharding
+
+
+API Gateway
+Manages requests and directs them to the correct services
+apiGateway
+
+WebRTC (Web Real-Time Communication)
+Enabling real-time communication directly in web browsers
+webRTC
+
+
+Data Governance
+Management of datas availability, usability, integrity, and security
+dataGovernance
+
+
+Data Anonymization
+Removing personal identifiers from data to protect privacy
+dataAnonymization
+
+
+Federated Learning
+Training AI models across multiple devices without sharing data
+federatedLearning
+
+
+Explainable AI (XAI)
+Making AI decisions understandable to humans
+explainableAI
+
+
+Synthetic Data
+Artificially generated data that mimics real data
+syntheticData
+
+
+Quantum Cryptography
+Using principles of quantum mechanics for secure communication
+quantumCryptography
+
+
+Digital Twins
+Virtual replicas of physical objects or systems
+digitalTwins
+
+
+Edge AI
+Bringing artificial intelligence to edge devices to process data locally
+edgeAI
+
+
+Homomorphic Encryption
+Performing computations on encrypted data without decryption
+homomorphicEncryption
+
+
+Fog Computing
+Extending cloud computing to the edge of an enterprises network
+fogComputing
+
+
+Virtual Private Cloud (VPC)
+Isolated cloud resources for enhanced security within a public cloud
+virtualPrivateCloud
+
+
+Hybrid Cloud
+Combining public and private cloud environments for flexibility
+hybridCloud
+
+
+Multi-Cloud Strategy
+Using multiple cloud computing services to mitigate single-provider risks
+multiCloudStrategy
+
+
+DataOps
+An agile methodology for developing and maintaining data analytics
+dataOps
+
+
+Bioinformatics
+Using technology to understand biological data
+bioinformatics
