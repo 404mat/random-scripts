@@ -1,5 +1,8 @@
 import json
 
+# this script converts every 3 lines of text (blob)
+# to a json object
+
 file = open('./text-data.txt', 'r')
 lines = file.readlines()
 
